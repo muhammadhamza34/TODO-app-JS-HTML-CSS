@@ -1,0 +1,14 @@
+.listyle{
+    border: 1px solid black;
+    border-radius: 6px;
+    background-color: lightcyan;
+    color: black;
+    padding: 5px;
+    margin: 5px;
+    max-width: 50%;
+    min-width: auto;
+
+
+
+
+}
